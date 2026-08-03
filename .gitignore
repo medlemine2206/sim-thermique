@@ -1,0 +1,19 @@
+# Octave/Matlab
+*.asv
+*.m~
+octave-workspace
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
